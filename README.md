@@ -1,5 +1,12 @@
 # Audit Portfolio
 
+
+## Bug Bounties
+
+| Date     | Platform     |Protocol(s)                                                                        | Severity                 | Scope                                | Report                |
+| -------- | -------- | ---------------------------------------------------------------------------------- | ------------------------ | -------------------------------------- | ------------------- |
+| March 2025 | Immunefi | REDACTED                                                          | Critical                   | Web & App                                   | [References](https://x.com/boredpukar/status/1912330911112437783) |
+
 ## Public Audit Contest
 
 | Date | Platform | Contest | Findings | Report |
