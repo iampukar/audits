@@ -1,10 +1,10 @@
-# Summary
+# Security Reviews
 
-| Category               | Critical | High | Medium | Low |
-|------------------------|:--------:|:----:|:------:|:---:|
-| Bug Bounties           |    1     |  –   |   –    |  –  |
-| Audit Contests         |    –     |  4   |   6    |  7  |
-| **Total**              |  **1**   | **4**| **6**  |**7**|
+## Private Audits
+
+| Org | Protocol | Category | Report |
+|:-|:-|:-|:-|
+|ElectiSec|Centrifuge|Real World Assets|Soon|
 
 ## Bug Bounties
 
@@ -12,7 +12,7 @@
 | -------- | -------- | ---------------------------------------------------------------------------------- | ------------------------ |
 | Immunefi | REDACTED                                                          | Critical                   | [References](https://x.com/boredpukar/status/1912330911112437783) |
 
-## Public Audit Contest
+## Public Audit Contests
 
 | Platform | Contest | Findings | Report |
 |:-|:-|:-|:-|
