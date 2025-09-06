@@ -16,6 +16,9 @@
 
 | Platform | Contest | Findings | Report |
 |:-|:-|:-|:-|
+|Sherlock|Mellow Flexible Vaults|[1H, 2M](https://audits.sherlock.xyz/contests/964/report)|[Reference](https://audits.sherlock.xyz/contests/964/report)|
+|Code4rena|GTE Spot CLOB and Router|[1H, 2M](https://code4rena.com/audits/2025-07-gte-spot-clob-and-router)|[Reference](https://code4rena.com/audits/2025-07-gte-spot-clob-and-router)|
+|Sherlock|Notional Exponent|[1H, 2M](https://audits.sherlock.xyz/contests/1001/report)|[Reference](https://audits.sherlock.xyz/contests/1001/report)|
 |Code4rena|Forte|[1H](https://code4rena.com/audits/2025-04-forte-float128-solidity-library/submissions/S-120)|[Reference](https://code4rena.com/audits/2025-03-forte-float128-solidity-library)|
 |Cantina|Soon|[3L](https://cantina.xyz/competitions/08c2b0b4-8449-4136-82a2-7074ccdfffac)|[Reference](https://cantina.xyz/competitions/08c2b0b4-8449-4136-82a2-7074ccdfffac)|
 |Code4rena|SecondSwap|[1M](https://code4rena.com/evaluate/2024-12-secondswap/submissions/S-754)|[Reference](https://code4rena.com/evaluate/2024-12-secondswap)|
